@@ -1,5 +1,6 @@
 # fetch-coding-exercise
-I have used the google collab to work on the data using python. For setting up the database and performong the queries, I have used SQL workbench.
+I worked on data using Python & Pandas data frame in Google Colab.
+For setting up the database and solving the queries, I have used SQL workbench.
 The solutions and the ER diagram are in the 'solutions-with-ERdiagaram.pdf' file.
 The cleaned data files for the three given data files are brands_cleaned.csv, users_cleaned.csv, receipts_cleaned.csv.
 Python notebook is also attached as a reference for the coding done. It is in the file - 'python-notebook.html'.
