@@ -1,7 +1,7 @@
 # fetch-coding-exercise
 Hello,
 
-Here is a quick info on the work done and the files attached. 
+Here is a quick info of the work done and the files attached. 
 I worked on the data using Python & Pandas data frame in Google Colab.
 For setting up the database and solving the queries, I have used SQL workbench.
 The solutions and the ER diagram are in the 'solutions-with-ERdiagaram.pdf' file.
